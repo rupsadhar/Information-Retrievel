@@ -88,7 +88,7 @@ We have also provided dictinary meanings for every term in the query using PyDic
 
 ### Results
 
-![](images/results.jpg)
+![](images/results.JPG)
 
 
 ## Machine specs:
