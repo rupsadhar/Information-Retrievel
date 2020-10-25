@@ -82,9 +82,13 @@ $ python3
 GUI has been created using flask framework of python and the front end web pages have been designed using HTML, CSS and Bootstrap.
 We have also provided dictinary meanings for every term in the query using PyDictionary.
 
-### The Poem Serach Engine Home page.
+### The Poem Search Engine Home page.
 
 ![](images/homepage.jpg)
+
+### Results
+
+![](images/results.jpg)
 
 
 ## Machine specs:
